@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ala-b\OneDrive\Pulpit\PO\mastermind\mastermind\modeSelection.h(3,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": ponowna definicja makra
+C:\Users\ala-b\OneDrive\Pulpit\PO\mastermind\mastermind\main.cpp : message : zobacz poprzednią definicję „_CRT_SECURE_NO_WARNINGS”
+  mastermind.vcxproj -> C:\Users\ala-b\OneDrive\Pulpit\PO\mastermind\x64\Debug\mastermind.exe
